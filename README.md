@@ -1,15 +1,16 @@
 # Hi there 👋 I'm Landysh Khusaenova
 
-QA Engineer specializing in test automation and software quality assurance, currently expanding into AI engineering and LLM-based applications.
+Aspiring AI Engineer · Transitioning from QA into LLM apps & GenAI workflows
 
 ---
 
 ## 👩‍💻 About Me
-- 🧪 QA Engineer with hands-on experience in manual & automated testing
-- 🐍 Building full-stack web apps with Python, Flask, and SQLAlchemy
-- 🤖 Expanding into AI Engineering — working with OpenAI API, Claude, and Gemini
-- 🎯 Passionate about combining test automation with AI to build smarter, more reliable software
-- 🌍 Based in Germany, open to remote opportunities
+🤖 Aspiring AI Engineer transitioning into LLM applications and GenAI workflows
+🎓 M.Sc. Engineering Physics · Software Engineering @ Masterschool (2025–2026)
+🛠️ Building with Python · LangChain · OpenAI API · RAG · Autogen · HuggingFace
+🧪 QA background in API testing and test automation
+🌍 Multilingual: Russian · German (B2) · English
+📍 Based in Germany, open to remote opportunities
 
 ---
 
@@ -94,9 +95,9 @@ simulating a complete multi-user gift exchange workflow.
 ---
 
 ## 📈 Goals for 2026
-- Land a role in Test Automation or AI-assisted QA Engineering
-- Build and deploy an AI-powered application
-- Deepen expertise in LLM integration and backend development
+- Land a role as an AI Engineer or LLM Application Developer
+- Build and deploy a production-ready AI-powered application
+- Deepen expertise in GenAI workflows, RAG systems, and LLM integration
 
 ---
 
