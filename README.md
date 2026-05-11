@@ -1,16 +1,16 @@
 # Hi there 👋 I'm Landysh Khusaenova
 
-Aspiring AI Engineer · Transitioning from QA into LLM apps & GenAI workflows
+Aspiring AI Engineer | Transitioning from QA into LLM apps & GenAI workflows
 
 ---
 
 ## 👩‍💻 About Me
-🤖 Aspiring AI Engineer transitioning into LLM applications and GenAI workflows
-🎓 M.Sc. Engineering Physics · Software Engineering @ Masterschool (2025–2026)
-🛠️ Building with Python · LangChain · OpenAI API · RAG · Autogen · HuggingFace
-🧪 QA background in API testing and test automation
-🌍 Multilingual: Russian · German (B2) · English
-📍 Based in Germany, open to remote opportunities
+- 🤖 Aspiring AI Engineer transitioning into LLM applications and GenAI workflows
+- 🎓 M.Sc. Engineering Physics · Software Engineering @ Masterschool (2025–2026)
+- 🛠️ Building with Python · LangChain · OpenAI API · RAG · Autogen · HuggingFace
+- 🧪 QA background in API testing and test automation
+- 🌍 Multilingual: Russian · German (B2) · English
+- 📍 Based in Germany, open to remote opportunities
 
 ---
 
